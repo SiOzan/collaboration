@@ -1035,15 +1035,6 @@
                                 </svg>
                             </div>
 
-                            <div class="pt-3 sm:pt-5">
-                                <h2 class="text-xl font-semibold text-black dark:text-white">Laravel News</h2>
-
-                                <p class="mt-4 text-sm/relaxed">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the
-                                    latest and most important news in the Laravel ecosystem, including new package
-                                    releases and tutorials.
-                                </p>
-                            </div>
 
                             <svg class="size-6 shrink-0 self-center stroke-[#FF2D20]" xmlns="http://www.w3.org/2000/svg"
                                 fill="none" viewBox="0 0 24 24" stroke-width="1.5">
